@@ -1,4 +1,4 @@
 {
   "name": "전우현",
-  "model_name": "LGBM_L1_Features_v3"
+  "model_name": "LGBM_Error_Corrected"
 }
