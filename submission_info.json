@@ -1,4 +1,4 @@
 {
   "name": "전우현",
-  "model_name": "LGBM_Error_Corrected_Cyclic"
+  "model_name": "LGBM_Error_Ridge_Tuned"
 }
