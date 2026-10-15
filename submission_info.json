@@ -1,4 +1,4 @@
 {
   "name": "전우현",
-  "model_name": "Sigmoid_Power_Curve_Hybrid"
+  "model_name": "Quantile_Mapping_Hybrid"
 }
