@@ -1,4 +1,4 @@
 {
   "name": "전우현",
-  "model_name": "Fast_CatBoost_Hybrid"
+  "model_name": "Full_Precision_12M_OOF"
 }
