@@ -1,4 +1,4 @@
 {
   "name": "전우현",
-  "model_name": "Full_Precision_12M_OOF"
+  "model_name": "Sigmoid_Power_Curve_Hybrid"
 }
