@@ -1,4 +1,4 @@
 {
   "name": "전우현",
-  "model_name": "Quantile_Mapping_Hybrid"
+  "model_name": "Stable_Baseline_Rollback"
 }
